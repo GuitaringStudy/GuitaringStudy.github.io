@@ -1,3 +1,5 @@
+# 참고 블로그 주소 : https://GuitaringStudy.github.io
+
 # github page로 블로그 만들기
 
 ### 1. 테마 선택
